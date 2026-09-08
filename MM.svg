@@ -14833,6 +14833,7 @@
       .cls-3708 {
         fill: #725234;
       }
+      * { fill: #FFFFFF !important; }
     </style>
     <linearGradient id="Gradiente_sem_nome_14" data-name="Gradiente sem nome 14" x1="967.25" y1="1858.85" x2="1263.97" y2="2046.35" gradientTransform="translate(-377 -1555)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#d5a75c"/>
